@@ -22,7 +22,7 @@ I created DTO folder that contains DTO class which provides seemless data transf
 
 UserDTO class:
 
-<img width="708" height="572" alt="image" src="https://github.com/user-attachments/assets/4c7434c5-1720-46f9-a32b-25055df33909" />
+<img width="533" height="261" alt="image" src="https://github.com/user-attachments/assets/f7a6e7bb-9315-4920-b889-92ab76e1529d" />
 
 UserMappingOperation class:
 
